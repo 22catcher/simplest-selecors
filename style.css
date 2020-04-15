@@ -1,7 +1,3 @@
-.asteroid, .big {
-    font-weight: bold;
-}
-
 .asteroid {
     border: 1px solid green;
     font-weight: bold;
