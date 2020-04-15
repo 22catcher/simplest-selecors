@@ -1,5 +1,4 @@
 .asteroid, .big {
-    color: blue;
     font-weight: bold;
 }
 
@@ -10,4 +9,12 @@
 
 .big {
     background: yellow;
+    font-weight: normal;
+    border: none;
+    color: blue;
+}
+
+.b329 {
+    font-weight: bold;
+    background: none;
 }
